@@ -1,0 +1,10 @@
+ak47
+awp
+deagle
+m4
+negev
+nova
+scout
+ump
+usp
+scar

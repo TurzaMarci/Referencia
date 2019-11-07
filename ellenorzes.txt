@@ -1,0 +1,10 @@
+lionel:13, scar, 10
+pit:12, usp, 9
+brad:11, ump, 8
+kodiak:9, scout, 7
+undertaker:8, nova, 6
+cena:7, negev, 5
+john:6, m4, 4
+elvira:5, deagle, 3
+igor:4, awp, 2
+lajos:3, ak47, 1
